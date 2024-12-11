@@ -1,7 +1,7 @@
 # Bead Image Resolution Analysis
 
 This Python script evaluates the Full Width at Half Maximum (FWHM) of 100 nm fluorescence bead images in the x, y, and z dimensions to estimate the resolution of an imaging system. 
-It performs Gaussian fitting on the intensity profiles of individual beads to calculate the lateral and axial resolution and assess the system's imaging quality.
+It performs Gaussian fitting on the intensity profiles of individual beads to calculate the lateral and axial resolution and assess the system's imaging quality. See our bioRxiv paper [1] (https://doi.org/10.1101/2024.11.29.626121) for full optical setup instructions.
 
 ![OPM-Autofocus-Fig 4](https://github.com/user-attachments/assets/27e0122d-49aa-464d-a5e4-3b5ff4cd2925)
 
